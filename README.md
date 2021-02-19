@@ -31,6 +31,8 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 <img align="left" alt="C++" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
+<img align="left" alt="Java" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
 <img align="left" alt="Git" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="MySQL" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -58,11 +60,13 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 - [Twitter][tw]
 - [Instagram][ig]
 - [LinkedIn][lk]
+- [WhatSapp][wp]
 
 <!-- ENLACES -->
 [tw]: https://twitter.com/alexanyernas/
 [ig]: https://instagram.com/alexanyernas/
 [lk]: https://linkedin.com/in/alexanyernas/
+[wp]: https://wa.me/584120283147/
 
 
 
