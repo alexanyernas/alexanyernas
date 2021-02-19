@@ -1,8 +1,8 @@
 # Alexanyer Naranjo 👋
-###### Desarrollador Frontend Junior
+#### Desarrollador Frontend Junior
 ---
 
-## Un poco sobre mi: 
+## Un poco sobre mi 💭
 
 Soy Desarrollador Frontend junior manejando la librería de React.js, con experiencia trabajando en tecnologías tales como C/C++, Java, Python, Git y WordPress. 
 
@@ -12,7 +12,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 ---
 
-## Tecnologías:
+## Tecnologías 👨🏻‍💻
 
 <img align="left" alt="HTML5" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -37,7 +37,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 <hr/>
 
-## Habilidades: 
+## Habilidades 🙌 
 
 - Resolución de problemas
 - Capacidad de análisis
@@ -48,7 +48,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 ---
 
-## Contacto:
+## Contacto 📬
 
 - [Twitter][tw]
 - [Instagram][ig]
