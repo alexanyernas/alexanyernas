@@ -1,5 +1,7 @@
-# ¡Hola, soy Alexanyer Naranjo! 👋
-#### Desarrollador Frontend Junior
+<div style="text-align: center; font-family: monospace;">
+    <h1>¡Hola, soy Alexanyer Naranjo! 👋</h1>
+    <h3>Desarrollador Frontend junior</h3>
+</div>
 
 <img src="./Banner.png" alt="Banner-GitHub">
 
