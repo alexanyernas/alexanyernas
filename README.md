@@ -1,5 +1,8 @@
 # Alexanyer Naranjo 👋
 #### Desarrollador Frontend Junior
+
+<img src="./Banner.png" alt="Banner-GitHub">
+
 ---
 
 ## Un poco sobre mi 💭
@@ -19,6 +22,8 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 <img align="left" alt="CSS3" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="JavaScript" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="React" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Python" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
