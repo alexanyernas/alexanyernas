@@ -1,4 +1,4 @@
-<div style="text-align: center; font-family: monospace;">
+<div style="text-align: center; font-family: monospace; text-shadow: 1px 1px 12px #DDD;">
     <h1>¡Hola, soy Alexanyer Naranjo! 👋</h1>
     <h3>Desarrollador Frontend junior</h3>
 </div>
