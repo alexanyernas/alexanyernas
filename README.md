@@ -9,7 +9,7 @@
 
 Soy Desarrollador Frontend junior manejando la librería de React.js, con experiencia trabajando en tecnologías tales como C/C++, Java, Python, Git y WordPress. 
 
-Además, soy estudiante de Ciencias de la Computación en la Universidad Central de Venezuela donde he tenido la oportunidad de ser preparador en diversaS oportunidades en asignaturas como, Algoritmos y Estructuras de Datos, y actualmente me encuentro enseñando Probabilidad y Estadística a los chicos más avanzados en la carrera. 
+Además, soy estudiante de Ciencias de la Computación en la Universidad Central de Venezuela donde he tenido la oportunidad de ser preparador en diversas oportunidades en asignaturas como, Algoritmos y Estructuras de Datos, y actualmente me encuentro enseñando Probabilidad y Estadística a los chicos más avanzados en la carrera. 
 
 Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a conocer sobre nuevas tecnologías para así estar siempre en un constante aprendizaje. 
 
