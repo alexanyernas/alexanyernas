@@ -37,7 +37,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 <hr/>
 
-##Habilidades: 
+## Habilidades: 
 
 - Resolución de problemas
 - Capacidad de análisis
@@ -48,7 +48,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 ---
 
-###Contacto:
+## Contacto:
 
 - [Twitter][tw]
 - [Instagram][ig]
