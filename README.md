@@ -60,7 +60,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 - [Twitter][tw]
 - [Instagram][ig]
 - [LinkedIn][lk]
-- [WhatSapp][wp]
+- [WhatsApp][wp]
 
 <!-- ENLACES -->
 [tw]: https://twitter.com/alexanyernas/
