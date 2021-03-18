@@ -5,9 +5,9 @@
 
 ---
 
-## Un poco sobre mi 💭
+## Un poco sobre mí 💭
 
-Soy Desarrollador Frontend junior manejando la librería de React.js, con experiencia trabajando en tecnologías tales como C/C++, Java, Python, Git y WordPress. 
+Soy Desarrollador Frontend junior manejando la librería de React.js, destacando mi experiencia en el manejo de otras tecnologías tales como C/C++, Java, Python, Git y WordPress. 
 
 Además, soy estudiante de Ciencias de la Computación en la Universidad Central de Venezuela donde he tenido la oportunidad de ser preparador en diversas oportunidades en asignaturas como, Algoritmos y Estructuras de Datos, y actualmente me encuentro enseñando Probabilidad y Estadística a los chicos más avanzados en la carrera. 
 
@@ -54,6 +54,10 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 - Manejo de tecnologías sobre programación web
 
 ---
+## Portafolio de trabajo 💡
+
+ - [Portafolio][portafolio] 
+---
 
 ## Contacto 📬
 
@@ -67,7 +71,7 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 [ig]: https://instagram.com/alexanyernas/
 [lk]: https://linkedin.com/in/alexanyernas/
 [wp]: https://wa.me/584120283147/
-
+[portafolio]: https://alexanyernas.github.io/My-Portfolio/
 
 
 
