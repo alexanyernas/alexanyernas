@@ -37,8 +37,6 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 
 <img align="left" alt="Java" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<img align="left" alt="Git" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <img align="left" alt="MySQL" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="WordPress" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
