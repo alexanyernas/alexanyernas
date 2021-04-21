@@ -1,5 +1,5 @@
 # ¡Hola, soy Alexanyer Naranjo! 👋
-#### Desarrollador Frontend Junior
+#### Desarrollador Frontend
 
 <img src="./Banner.png" alt="Banner-GitHub">
 
@@ -7,7 +7,7 @@
 
 ## Un poco sobre mí 💭
 
-Soy Desarrollador Frontend junior manejando la librería de React.js, destacando mi experiencia en el manejo de otras tecnologías tales como C/C++, Java, Python, Git y WordPress. 
+Soy Desarrollador Frontend manejando la librería de React.js, destacando mi experiencia en el manejo de otras tecnologías tales como C/C++, Java, Python, Git y WordPress. 
 
 Además, soy estudiante de Ciencias de la Computación en la Universidad Central de Venezuela donde he tenido la oportunidad de ser preparador en diversas oportunidades en asignaturas como, Algoritmos y Estructuras de Datos, y actualmente me encuentro enseñando Probabilidad y Estadística a los chicos más avanzados en la carrera. 
 
@@ -24,6 +24,10 @@ Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a cono
 <img align="left" alt="JavaScript" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="PHP" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+
+<img align="left" alt="Laravel" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <img align="left" alt="Python" style="margin-right: 10px;" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
