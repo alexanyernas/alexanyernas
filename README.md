@@ -1,5 +1,5 @@
 # ¡Hola, soy Alexanyer Naranjo! 👋
-#### Desarrollador Frontend
+#### Desarrollador Full Stack
 
 <img src="./Banner.png" alt="Banner-GitHub">
 
