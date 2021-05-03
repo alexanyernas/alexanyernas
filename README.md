@@ -7,11 +7,11 @@
 
 ## Un poco sobre mí 💭
 
-Soy Desarrollador Frontend manejando la librería de React.js, destacando mi experiencia en el manejo de otras tecnologías tales como C/C++, Java, Python, Git y WordPress. 
+Estudiante de Ciencias de la Computación en la Facultad de Ciencias de la Universidad Central de Venezuela, donde he tenido la oportunidad de ser preparador de múltiples asignaturas tales como Algoritmos y Estructuras de Datos, y actualmente, Probabilidad y Estadística.
 
-Además, soy estudiante de Ciencias de la Computación en la Universidad Central de Venezuela donde he tenido la oportunidad de ser preparador en diversas oportunidades en asignaturas como, Algoritmos y Estructuras de Datos, y actualmente me encuentro enseñando Probabilidad y Estadística a los chicos más avanzados en la carrera. 
+Me desenvuelvo como Desarrollador Full Stack con experiencia manejando diversas tecnologías, de las cuales destaco mi trabajo utilizando Laravel como framework Backend de PHP y React como librería Frontend de JavaScript. Entre otras herramientas, manejo C/C++, Java, Python, Git y WordPress.
 
-Tengo una gran pasión por el aprendizaje y siempre me encuentro motivado a conocer sobre nuevas tecnologías para así estar siempre en un constante aprendizaje. 
+Por último, siempre he tenido una fascinación por la enseñanza y el aprendizaje, por ello desde el año 2019 junto con Alejandra Giannattasio, iniciamos el proyecto Educa2 donde buscamos brindar la importancia de la programación en el día de las personas a través de cursos, clases, talleres y charlas. 
 
 ---
 
