@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexanyer Naranjo</h1>
 <h3 align="center">A passionate Front-End Developer from Venezuela</h3>
 
-- 🔭 I’m currently working on **M-étrica | Business Partner Datos Group**
-
 - 👨‍💻 All of my projects are available at [https://alexanyer-naranjo.netlify.app/](https://alexanyer-naranjo.netlify.app/)
 
 - 💬 Ask me about **Vue.js, React.js, React Native, Ionic and Flutter**
