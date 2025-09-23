@@ -45,7 +45,7 @@ Soy un **Desarrollador Front-End** con más de **4 años de experiencia** creand
 ## 🎯 Experiencia Profesional
 
 ### 🚀 Desarrollador Front-End | Protegetuviaje.com
-**Agosto 2024 - Actualidad | 1 año 2 meses**
+**Agosto 2024 - Actualidad**
 - Desarrollo con **Vue.js**, **Next.js**, **Docker**, **MySQL**
 - Jornada completa - España, En remoto
 - Trabajo en plataforma de seguros de viaje
