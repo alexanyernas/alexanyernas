@@ -1,20 +1,110 @@
-<h1 align="center">Hi 👋, I'm Alexanyer Naranjo</h1>
-<h3 align="center">A passionate Front-End Developer from Venezuela</h3>
+# Hola! Soy Alexanyer Naranjo 👋
 
-- 👨‍💻 All of my projects are available at [https://alexanyer-naranjo.netlify.app/](https://alexanyer-naranjo.netlify.app/)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;4%2B+Anos+de+Experiencia;Creador+de+Contenido;Preparador+Universitario" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **Vue.js, React.js, React Native, Ionic and Flutter**
+## 🚀 Sobre Mi
 
-- 📫 How to reach me **alexanyernaranjo@gmail.com**
+Soy un **Desarrollador Front-End** con mas de **4 anos de experiencia** creando soluciones tecnologicas innovadoras. Mi pasion por el desarrollo me ha llevado a trabajar en una amplia variedad de proyectos, adaptandome constantemente a nuevos desafios y tecnologias.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xr-Z5OtWk2qHXsG4K4ZPSpfgoIr-hpWW/view?usp=drive_link](https://drive.google.com/file/d/1Xr-Z5OtWk2qHXsG4K4ZPSpfgoIr-hpWW/view?usp=drive_link)
+- 📱 **Especialista en Desarrollo Mobile**: iOS y Android con Ionic, React Native y Flutter
+- 🌐 **Experto en Desarrollo Web**: Vue.js y React.js
+- 👨‍🏫 **Preparador Universitario** en la Universidad Central de Venezuela
+- 📚 **Creador de Contenido** educativo desde 2021
+- 💡 **Mentor** ayudando a desarrolladores de todos los niveles
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alexanyernas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexanyernas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexanyernas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanyernas" height="30" width="40" /></a>
-<a href="https://instagram.com/alexanyernas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexanyernas" height="30" width="40" /></a>
-</p>
+## 💻 Stack Tecnologico
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<div align="center">
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Lenguajes & Herramientas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 Estadisticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexanyernas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexanyernas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanyernas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🎯 Experiencia Profesional
+
+### 🚀 Desarrollador Front-End | Protegetuviaje.com
+**Agosto 2024 - Actualidad | 1 ano 2 meses**
+- Desarrollo con **Vue.js**, **Next.js**, **Docker**, **MySQL**
+- Jornada completa - Espana, En remoto
+- Trabajo en plataforma de seguros de viaje
+
+### 💼 Desarrollador Front-End | M-etrica Consulting
+**Abril 2023 - Julio 2024 | 1 ano 4 meses**
+- Desarrollo agil con **React Native**, **JavaScript**, **React.js**, **Vue.js**, **TypeScript**
+- Caracas, Distrito Federal, Venezuela - En remoto
+- Consultoria tecnologica especializada
+
+### 🏢 Desarrollador Front-End | Punicorp
+**Enero 2022 - Junio 2023 | 1 ano 6 meses**
+- Stack: **React Native**, **JavaScript**, **React.js**, **Vue.js**, **TypeScript**, **Ionic Framework**
+- Caracas, Distrito Federal, Venezuela - En remoto
+- Desarrollo de aplicaciones empresariales
+
+### 📊 Preparador de Probabilidad y Estadistica | Universidad Central de Venezuela
+**Enero 2020 - Septiembre 2021 | 1 ano 9 meses**
+- Caracas, Distrito Federal, Venezuela - Presencial
+- Ensenanza de conceptos estadisticos avanzados
+- Mentoria academica a estudiantes de ingenieria
+
+### 🎯 Director Ejecutivo | Educa2
+**Enero 2019 - Agosto 2021 | 2 anos 8 meses**
+- Caracas, Distrito Federal, Venezuela - En remoto
+- Liderazgo y gestion de proyectos educativos
+- Desarrollo de plataformas educativas autonomas
+
+### 💻 Desarrollador Front-End | Mipto Tech
+**Febrero 2021 - Julio 2021 | 6 meses**
+- Desarrollo con **JavaScript**, **Vue.js**, **TypeScript**
+- Caracas, Distrito Federal, Venezuela - En remoto
+- Desarrollo de soluciones web especializadas
+
+### 📚 Preparador de Algoritmos y Estructuras de Datos | Universidad Central de Venezuela
+**Junio 2018 - Diciembre 2018 | 7 meses**
+- Caracas, Distrito Federal, Venezuela - Presencial
+- Ensenanza de programacion y estructuras de datos
+- Formacion de nuevos desarrolladores
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexanyernas)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AlexanyerNaranjo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanyernas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexanyernas)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Tienes un proyecto en mente?
+**Hablemos!** Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes.
+
+![Profile Views](https://komarev.com/ghpvc/?username=alexanyernas&color=blueviolet&style=for-the-badge)
+
+</div>
