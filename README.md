@@ -18,7 +18,7 @@ Soy un **Desarrollador Front-End** con más de **4 años de experiencia** creand
 
 <div align="center">
 
-### Frontend & Mobile
+### Front-End & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -107,6 +107,3 @@ Soy un **Desarrollador Front-End** con más de **4 años de experiencia** creand
 ![Profile Views](https://komarev.com/ghpvc/?username=alexanyernas&color=blueviolet&style=for-the-badge)
 
 </div>
-- Añadido acento en "¡Hola!" y "¡Hablemos!"
-
-El README ahora está completamente correcto en cuanto a ortografía y caracteres especiales del español.
