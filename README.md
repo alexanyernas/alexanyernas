@@ -1,12 +1,12 @@
-# Hola! Soy Alexanyer Naranjo 👋
+# ¡Hola! Soy Alexanyer Naranjo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;4%2B+Anos+de+Experiencia;Creador+de+Contenido;Preparador+Universitario" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;4%2B+Años+de+Experiencia;Creador+de+Contenido;Preparador+Universitario" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mi
+## 🚀 Sobre Mí
 
-Soy un **Desarrollador Front-End** con mas de **4 anos de experiencia** creando soluciones tecnologicas innovadoras. Mi pasion por el desarrollo me ha llevado a trabajar en una amplia variedad de proyectos, adaptandome constantemente a nuevos desafios y tecnologias.
+Soy un **Desarrollador Front-End** con más de **4 años de experiencia** creando soluciones tecnológicas innovadoras. Mi pasión por el desarrollo me ha llevado a trabajar en una amplia variedad de proyectos, adaptándome constantemente a nuevos desafíos y tecnologías.
 
 - 📱 **Especialista en Desarrollo Mobile**: iOS y Android con Ionic, React Native y Flutter
 - 🌐 **Experto en Desarrollo Web**: Vue.js y React.js
@@ -14,7 +14,7 @@ Soy un **Desarrollador Front-End** con mas de **4 anos de experiencia** creando 
 - 📚 **Creador de Contenido** educativo desde 2021
 - 💡 **Mentor** ayudando a desarrolladores de todos los niveles
 
-## 💻 Stack Tecnologico
+## 💻 Stack Tecnológico
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Soy un **Desarrollador Front-End** con mas de **4 anos de experiencia** creando 
 
 </div>
 
-## 📊 Estadisticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexanyernas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -45,46 +45,46 @@ Soy un **Desarrollador Front-End** con mas de **4 anos de experiencia** creando 
 ## 🎯 Experiencia Profesional
 
 ### 🚀 Desarrollador Front-End | Protegetuviaje.com
-**Agosto 2024 - Actualidad | 1 ano 2 meses**
+**Agosto 2024 - Actualidad | 1 año 2 meses**
 - Desarrollo con **Vue.js**, **Next.js**, **Docker**, **MySQL**
-- Jornada completa - Espana, En remoto
+- Jornada completa - España, En remoto
 - Trabajo en plataforma de seguros de viaje
 
-### 💼 Desarrollador Front-End | M-etrica Consulting
-**Abril 2023 - Julio 2024 | 1 ano 4 meses**
-- Desarrollo agil con **React Native**, **JavaScript**, **React.js**, **Vue.js**, **TypeScript**
-- Caracas, Distrito Federal, Venezuela - En remoto
-- Consultoria tecnologica especializada
+### 💼 Desarrollador Front-End | M-étrica Consulting
+**Abril 2023 - Julio 2024 | 1 año 4 meses**
+- Desarrollo ágil con **React Native**, **JavaScript**, **React.js**, **Vue.js**, **TypeScript**
+- Caracas, Distrito Capital, Venezuela - En remoto
+- Consultoría tecnológica especializada
 
 ### 🏢 Desarrollador Front-End | Punicorp
-**Enero 2022 - Junio 2023 | 1 ano 6 meses**
+**Enero 2022 - Junio 2023 | 1 año 6 meses**
 - Stack: **React Native**, **JavaScript**, **React.js**, **Vue.js**, **TypeScript**, **Ionic Framework**
-- Caracas, Distrito Federal, Venezuela - En remoto
+- Caracas, Distrito Capital, Venezuela - En remoto
 - Desarrollo de aplicaciones empresariales
 
-### 📊 Preparador de Probabilidad y Estadistica | Universidad Central de Venezuela
-**Enero 2020 - Septiembre 2021 | 1 ano 9 meses**
-- Caracas, Distrito Federal, Venezuela - Presencial
-- Ensenanza de conceptos estadisticos avanzados
-- Mentoria academica a estudiantes de ingenieria
+### 📊 Preparador de Probabilidad y Estadística | Universidad Central de Venezuela
+**Enero 2020 - Septiembre 2021 | 1 año 9 meses**
+- Caracas, Distrito Capital, Venezuela - Presencial
+- Enseñanza de conceptos estadísticos avanzados
+- Mentoría académica a estudiantes de ingeniería
 
 ### 🎯 Director Ejecutivo | Educa2
-**Enero 2019 - Agosto 2021 | 2 anos 8 meses**
-- Caracas, Distrito Federal, Venezuela - En remoto
-- Liderazgo y gestion de proyectos educativos
-- Desarrollo de plataformas educativas autonomas
+**Enero 2019 - Agosto 2021 | 2 años 8 meses**
+- Caracas, Distrito Capital, Venezuela - En remoto
+- Liderazgo y gestión de proyectos educativos
+- Desarrollo de plataformas educativas autónomas
 
 ### 💻 Desarrollador Front-End | Mipto Tech
 **Febrero 2021 - Julio 2021 | 6 meses**
 - Desarrollo con **JavaScript**, **Vue.js**, **TypeScript**
-- Caracas, Distrito Federal, Venezuela - En remoto
+- Caracas, Distrito Capital, Venezuela - En remoto
 - Desarrollo de soluciones web especializadas
 
 ### 📚 Preparador de Algoritmos y Estructuras de Datos | Universidad Central de Venezuela
 **Junio 2018 - Diciembre 2018 | 7 meses**
-- Caracas, Distrito Federal, Venezuela - Presencial
-- Ensenanza de programacion y estructuras de datos
-- Formacion de nuevos desarrolladores
+- Caracas, Distrito Capital, Venezuela - Presencial
+- Enseñanza de programación y estructuras de datos
+- Formación de nuevos desarrolladores
 
 ## 🌐 Conecta Conmigo
 
@@ -101,9 +101,12 @@ Soy un **Desarrollador Front-End** con mas de **4 anos de experiencia** creando 
 
 <div align="center">
 
-### 💼 Tienes un proyecto en mente?
-**Hablemos!** Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes.
+### 💼 ¿Tienes un proyecto en mente?
+**¡Hablemos!** Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexanyernas&color=blueviolet&style=for-the-badge)
 
 </div>
+- Añadido acento en "¡Hola!" y "¡Hablemos!"
+
+El README ahora está completamente correcto en cuanto a ortografía y caracteres especiales del español.
