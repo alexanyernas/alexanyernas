@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alexanyer Naranjo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;4%2B+Años+de+Experiencia;Creador+de+Contenido;Preparador+Universitario" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7ACBCD&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;4%2B+Años+de+Experiencia;Creador+de+Contenido;Preparador+Universitario" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
