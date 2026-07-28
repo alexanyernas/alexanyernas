@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **Desarrollador Front-End** con más de **4 años de experiencia** creando soluciones tecnológicas innovadoras. Mi pasión por el desarrollo me ha llevado a trabajar en una amplia variedad de proyectos, adaptándome constantemente a nuevos desafíos y tecnologías.
+Soy un **Desarrollador Front-End** con más de **5 años de experiencia** creando soluciones tecnológicas innovadoras. Mi pasión por el desarrollo me ha llevado a trabajar en una amplia variedad de proyectos, adaptándome constantemente a nuevos desafíos y tecnologías.
 
 - 📱 **Especialista en Desarrollo Mobile**: iOS y Android con Ionic, React Native y Flutter
 - 🌐 **Experto en Desarrollo Web**: Vue.js y React.js
@@ -33,13 +33,6 @@ Soy un **Desarrollador Front-End** con más de **4 años de experiencia** creand
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexanyernas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanyernas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎯 Experiencia Profesional
